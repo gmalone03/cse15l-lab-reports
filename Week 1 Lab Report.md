@@ -5,6 +5,7 @@
 * Download and install the version compatible with your operating system
 * Open the VS Code window
 
+
 ## Remotely Connecting
 
 ## Trying Some Commands
