@@ -1,7 +1,7 @@
-# Heading 1 Remote Access Tutorial
+# Remote Access Tutorial 1
 
 ## Heading 2 Installing VS Code
-* Follow this ling [Link](https://code.visualstudio.com/)
+* Follow this [Link](https://code.visualstudio.com/)
 * Download and install the version compatible with your operating system
 * Open the VS Code window
 
