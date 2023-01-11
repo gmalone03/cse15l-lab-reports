@@ -7,5 +7,6 @@
  ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/VS_Code_%28Insiders%29.png/800px-VS_Code_%28Insiders%29.png)
 
 ## Remotely Connecting
+* Acess your course specific account [here](https://sdacs.ucsd.edu/~icc/index.php)
 
 ## Trying Some Commands
