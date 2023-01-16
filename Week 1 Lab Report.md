@@ -27,3 +27,5 @@ cd
 ls -lat
 ls -a
 ```
+As an example, the last command should create an output similar to the following image:
+![Screenshot_20230116_022425](https://user-images.githubusercontent.com/122484941/212774224-41ea2d75-ec9f-48ca-917b-fe3541c78a72.png)
