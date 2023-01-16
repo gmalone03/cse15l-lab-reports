@@ -16,5 +16,13 @@
 ```
 $ ssh cs15lwi23zz@ieng6.ucsd.edu
 ```
+* Type yes, press enter, then enter your password
 
 ## Trying Some Commands
+Try some of the following commands in your terminal
+```
+cd ~
+cd
+ls -lat
+ls -a
+```
