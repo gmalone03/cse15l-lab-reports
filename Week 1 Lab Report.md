@@ -11,7 +11,7 @@
 * Follow [this](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit) tutorial to reset your password
 * Install git for windows [here](https://gitforwindows.org/)
 * Follow [this](https://stackoverflow.com/a/50527994) tutorial to use git bash in vs code. When you are done, the terminal should look like this in vs code
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F42606837%2Fhow-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal&psig=AOvVaw0L8Yw-rM2_4AaFEZyrRNwp&ust=1673993539371000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjA64OOzfwCFQAAAAAdAAAAABAf)
+![Screenshot_20230116_022036](https://user-images.githubusercontent.com/122484941/212773801-75bfde50-8b91-4047-a5d7-95835f0cd92e.png)
 * Enter the below command in the git bash terminal 
 
 ```
