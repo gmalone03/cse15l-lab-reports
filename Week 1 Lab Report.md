@@ -12,6 +12,8 @@
 * Install git for windows [here](https://gitforwindows.org/)
 * Follow [this](https://stackoverflow.com/a/50527994) tutorial to use git bash in vs code
 * Enter the below command in the git bash terminal 
-'$ ssh cs15lwi23zz@ieng6.ucsd.edu'
+'''
+$ ssh cs15lwi23zz@ieng6.ucsd.edu
+'''
 
 ## Trying Some Commands
