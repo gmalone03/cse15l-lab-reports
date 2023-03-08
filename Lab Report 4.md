@@ -1,5 +1,6 @@
 # Lab Report 4
 ## Log into ieng6
+![Alt text](https://user-images.githubusercontent.com/122484941/223593429-93d8d5cd-cc11-419c-b794-f9db0d11a912.png)
 
 I clicked the up arrow and then entered.
 
