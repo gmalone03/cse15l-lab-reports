@@ -1,6 +1,6 @@
 # Lab Report 4
 ## Log into ieng6
-
+![Alt text](https://user-images.githubusercontent.com/122484941/223592619-fab2381e-8f81-42e7-baad-daa046f4b9ec.png)
 I clicked the up arrow and then entered.
 
 ## Clone your fork of the repository from your GitHub account
